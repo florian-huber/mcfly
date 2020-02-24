@@ -78,7 +78,6 @@ def model_overview(
     dx = size_x/(num_models) 
     dx_box = dx * box_scaling_x
 
-
     dy = 0.4 * dx
     size_y = maxlength_models * dy
     dy_box = dy * box_scaling_y
